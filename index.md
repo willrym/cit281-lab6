@@ -6,3 +6,5 @@
 5. Create and test Library class
 6. Add at least two more books to the library
 7. Add ISBN and a delete book method
+
+![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
